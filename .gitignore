@@ -1,7 +1,6 @@
 # Local .terraform directories
 **/.terraform/
 .terraform/providers/
-poc/
 
 # Terraform lockfile
 .terraform.lock.hcl
